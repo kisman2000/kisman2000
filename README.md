@@ -2,4 +2,5 @@
 </a></div>
 
 # contacts 
-_kisman_#5039
+\_kisman_#5039
+https://discord.gg/XXvgV9YgS8 <-- based cpvp client, join now!!!
