@@ -6,6 +6,6 @@ My client - **[kisman.cc](https://discord.gg/XXvgV9YgS8)**
 Java programmer
 
 # Stats
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionfire&layout=compact&langs_count=10)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisman2000&layout=compact&langs_count=10)
 
-![](https://komarev.com/ghpvc/?username=DiOnFire&color=7421af)
+![](https://komarev.com/ghpvc/?username=kisman2000&color=7421af)
