@@ -11,6 +11,9 @@ Java programmer
 # Other Projects
 **[CatClientPlus aka ThighWare](https://github.com/kisman2000/CatClientPlus-aka-ThighWare)** - Public&OpenSource minecraft 1.12.2 utility mod made by BigJMuffin, v1_2, Dvargoo
 
+# Other Links
+**[kisman.cc LuaAPI Docs](https://kisman-kus.gitbook.io/catlua-kisman.cc/)**
+
 # Stats
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisman2000&layout=compact&langs_count=10)
 
