@@ -4,7 +4,7 @@ My discord - **\_kisman_#5039**
 Java programmer
 
 # Projects:
-**[kisman.cc](https://discord.gg/XXvgV9YgS8)** - Minecraft 1.12.2 utility mod
+**[kisman.cc](https://github.com/TheKisDevs/LavaHack)** - Minecraft 1.12.2 utility mod
 
 **[JByteKis](https://github.com/kisman2000/JByteKis)** - Private improved **[JByteCustom](https://github.com/storm772/JByteCustom)** Fork
 
