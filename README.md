@@ -1,7 +1,7 @@
 # About me
 My discord - **\_kisman_#5039**
 
-Java programmer
+Java/Kotlin programmer
 
 # Projects:
 **[LavaHack](https://github.com/TheKisDevs/LavaHack)** - Minecraft 1.12.2 utility mod
