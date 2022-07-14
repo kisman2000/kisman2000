@@ -24,7 +24,7 @@ Java/Kotlin programmer
 
 **[LavaHack Plugins API](https://github.com/TheKisDevs/LavaHack-Plugins-API)**
 
-**[LavaHack Example API](https://github.com/TheKisDevs/LavaHack-Example-Plugin)**
+**[LavaHack Example Plugin](https://github.com/TheKisDevs/LavaHack-Example-Plugin)**
 
 # Stats
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisman2000&layout=compact&langs_count=10)
