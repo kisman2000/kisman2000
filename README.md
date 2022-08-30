@@ -11,13 +11,19 @@ My [Discord Server](https://discord.gg/fRNPjWASTE)
 
 Java/Kotlin programmer
 
-# Projects:
+# My Projects:
 **[LavaHack](https://github.com/TheKisDevs/LavaHack)** - Minecraft 1.12.2 utility mod
 
 **[JByteKis](https://github.com/kisman2000/JByteKis)** - Private improved **[JByteCustom](https://github.com/storm772/JByteCustom)** Fork
 
+**Byte Loader Obfuscator** - currently in beta development, converts all classes to txt files
+
+**Disassembler Obfuscator** - currently in beta development, uses koffee disassembler for protect your jar file 
+
 # Other Projects
 **[CatClientPlus aka ThighWare](https://github.com/kisman2000/CatClientPlus-aka-ThighWare)** - Public&OpenSource minecraft 1.12.2 utility mod made by BigJMuffin, v1_2, Dvargoo
+
+**[cus](https://github.com/ya-ilya/cus)** - Class Usage Searcher by ya-ilya
 
 # Other Links
 **[LavaHack Lua API](https://kisman-kus.gitbook.io/lava-hack-lua-api/)**
