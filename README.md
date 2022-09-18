@@ -1,13 +1,13 @@
 # About me
 My discord - **\_kisman_#5039**
 
-My [VK](https://vk.com/kisman2000)
+My **[VK](https://vk.com/kisman2000)**
 
-My [Telegram](https://t.me/kisman2000)
+My **[Telegram](https://t.me/kisman2000)**
 
-My [Telegram Fan Club](https://t.me/kisman_fan_club)
+My **[Telegram Fan Club](https://t.me/kisman_fan_club)**
 
-My [Discord Server](https://discord.gg/fRNPjWASTE)
+My **[Discord Server](https://discord.gg/fRNPjWASTE)**
 
 Java/Kotlin programmer
 
