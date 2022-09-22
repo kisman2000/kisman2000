@@ -9,7 +9,7 @@ My **[Telegram Fan Club](https://t.me/kisman_fan_club)**
 
 My **[Discord Server](https://discord.gg/fRNPjWASTE)**
 
-Java/Kotlin programmer
+**Java**/**Kotlin** programmer
 
 # My Projects:
 **[LavaHack](https://github.com/TheKisDevs/LavaHack)** - Minecraft 1.12.2 utility mod
