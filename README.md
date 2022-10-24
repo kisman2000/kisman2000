@@ -12,7 +12,9 @@ My **[Discord Server](https://discord.gg/fRNPjWASTE)**
 **Java**/**Kotlin** programmer
 
 # My Projects:
-**[LavaHack](https://github.com/TheKisDevs/LavaHack)** - Minecraft 1.12.2 utility mod
+**[LavaHack](https://github.com/TheKisDevs/LavaHack)** - the best minecraft 1.12.2 utility mod
+
+**HockeyWare** - a minecraft 1.12.2 utility mod
 
 **[JByteKis](https://github.com/kisman2000/JByteKis)** - Private improved **[JByteCustom](https://github.com/storm772/JByteCustom)** Fork
 
