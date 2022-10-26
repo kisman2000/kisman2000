@@ -16,6 +16,8 @@ My **[Discord Server](https://discord.gg/fRNPjWASTE)**
 
 **HockeyWare** - a minecraft 1.12.2 utility mod
 
+**Sockets API** - just another socket api by me and ya-ilya 
+
 **[JByteKis](https://github.com/kisman2000/JByteKis)** - Private improved **[JByteCustom](https://github.com/storm772/JByteCustom)** Fork
 
 **Byte Loader Obfuscator** - currently in beta development, converts all classes to txt files
