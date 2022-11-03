@@ -9,6 +9,10 @@ My **[Telegram Fan Club](https://t.me/kisman_fan_club)**
 
 My **[Discord Server](https://discord.gg/fRNPjWASTE)**
 
+My first **[namemc](https://ru.namemc.com/profile/_kisman_)**
+
+My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
+
 **Java**/**Kotlin** programmer
 
 # My Projects:
