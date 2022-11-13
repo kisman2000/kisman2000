@@ -38,6 +38,7 @@ My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
 **[LavaHack Example Plugin](https://github.com/TheKisDevs/LavaHack-Example-Plugin)**
 
 # Stats
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisman2000&layout=compact&langs_count=10)
+<img src="https://github.com/kisman2000/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/kisman2000/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ![](https://komarev.com/ghpvc/?username=kisman2000&color=7421af)
