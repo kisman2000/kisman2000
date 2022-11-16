@@ -18,10 +18,6 @@ My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
 # My Projects:
 **[LavaHack](https://github.com/TheKisDevs/LavaHack)** - the best minecraft 1.12.2 utility mod
 
-**HockeyWare** - a minecraft 1.12.2 utility mod
-
-**[SafePoint.club](https://discord.gg/GQQG8akthP)** - a minecraft 1.12.2 utility mod
-
 **Sockets API** - just another socket api by me and ya-ilya 
 
 **[JByteKis](https://github.com/kisman2000/JByteKis)** - Private improved **[JByteCustom](https://github.com/storm772/JByteCustom)** Fork
