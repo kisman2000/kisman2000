@@ -26,7 +26,7 @@ My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
 
 **Disassembler Obfuscator** - currently in beta development, uses koffee disassembler for protect your jar file 
 
-# LavaHack Stuff
+# LavaHack Stuff:
 **[LavaHack Lua API](https://kisman-kus.gitbook.io/lava-hack-lua-api/)**
 
 **[LavaHack Plugins API](https://github.com/TheKisDevs/LavaHack-Plugins-API)**
