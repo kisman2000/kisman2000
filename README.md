@@ -33,7 +33,7 @@ My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
 
 **[LavaHack Example Plugin](https://github.com/TheKisDevs/LavaHack-Example-Plugin)**
 
-# Stats
+# Stats:
 <img src="https://github.com/kisman2000/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/kisman2000/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
