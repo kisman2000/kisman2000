@@ -16,13 +16,13 @@ My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
 **Java**/**Kotlin** programmer
 
 # My Projects:
-**[LavaHack](https://github.com/TheKisDevs/LavaHack)** - the best minecraft 1.12.2 utility mod
+**[LavaHack](https://github.com/TheKisDevs/LavaHack)** - the best private minecraft 1.12.2 utility mod
 
-**[LavaHack Public](https://github.com/TheKisDevs/LavaHack-Public)** - minecraft 1.12.2 utility mod
+**[LavaHack Public](https://github.com/TheKisDevs/LavaHack-Public)** - the best free minecraft 1.12.2 utility mod
 
 **Sockets API** - just another socket api by me and ya-ilya 
 
-**[JByteKis](https://github.com/kisman2000/JByteKis)** - Private improved **[JByteCustom](https://github.com/storm772/JByteCustom)** Fork
+**[JByteKis](https://github.com/kisman2000/JByteKis)** - Private **[JByteCustom](https://github.com/storm772/JByteCustom)** fork for minecraft developers
 
 **Byte Loader Obfuscator** - currently in beta development, converts all classes to txt files
 
@@ -30,8 +30,6 @@ My second **[namemc](https://ru.namemc.com/profile/SalhackDeveloper)**
 
 # LavaHack Stuff:
 **[LavaHack Lua API](https://kisman-kus.gitbook.io/lava-hack-lua-api/)**
-
-**[LavaHack Plugins API](https://github.com/TheKisDevs/LavaHack-Plugins-API)**
 
 **[LavaHack Example Plugin](https://github.com/TheKisDevs/LavaHack-Example-Plugin)**
 
