@@ -1,10 +1,12 @@
+**IMPORTANT NEWS: My main discord account with main server of LH got termed, my NEW discord is \_kisman_#1763, NEW server of LH is https://discord.gg/FvhWJVbGKW**
+
 # About me:
 
 Hello im 14 years old russian java/kotlin programmer
 
 You can contact with me via **Discord/[VK](https://vk.com/kisman2000)/[Telegram](https://t.me/kisman2000)**
 
-My discord is **\_kisman_#5039**
+My discord is **\_kisman_#1763**
 
 Im currently working on **[LavaHack](https://github.com/TheKisDevs/LavaHack)**
 
