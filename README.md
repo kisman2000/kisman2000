@@ -1,23 +1,22 @@
-**IMPORTANT NEWS: My main discord account with main server of LH got termed, my NEW discord is \_kisman_#1763, NEW server of LH is https://discord.gg/FvhWJVbGKW**
+<h1 align="center">Hi 👋, I'm ksmn</h1>
+<h3 align="center">minecraft modder</h3>
 
-# About me:
+- 🔭 I’m currently working on **LavaHack**
 
-Hello im 14 years old russian java/kotlin programmer
+- 🌱 I’m currently learning **Fabric API, TypeScript, GLSL**
 
-You can contact with me via **Discord/[VK](https://vk.com/kisman2000)/[Telegram](https://t.me/kisman2000)**
+- 💬 Ask me about **java, kotlin, minecraft modding**
 
-My discord is **\_kisman_#1763**
+- ⚡ Fun fact **I love catgirls**
 
-Im currently working on **[LavaHack](https://github.com/TheKisDevs/LavaHack)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://discord.gg/_kisman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_kisman_" height="30" width="40" /></a>
+</p>
 
-# LavaHack:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-**[LavaHack](https://github.com/TheKisDevs/LavaHack)** is my best project i have made
+<p><img align="left" src="https://github.com/kisman2000/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /></p>
 
-**[LavaHack](https://github.com/TheKisDevs/LavaHack)** is minecraft 1.12.2 forge utility mod aimed on anarchy servers and crystal pvp
-
-# Stats:
-<img src="https://github.com/kisman2000/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/kisman2000/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
-![](https://komarev.com/ghpvc/?username=kisman2000&color=7421af)
+<p>&nbsp;<img align="center" src="https://github.com/kisman2000/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></p>
