@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ksmn</h1>
-<h3 align="center">15 y,o. minecraft modder</h3>
+<h3 align="center">15 y.o. minecraft modder</h3>
 
 - 🔭 I’m currently working on **LavaHack**
 
