@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ksmn</h1>
-<h3 align="center">minecraft modder</h3>
+<h3 align="center">15 y,o. minecraft modder</h3>
 
 - 🔭 I’m currently working on **LavaHack**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java, kotlin, minecraft modding**
 
-- ⚡ Fun fact **I love catgirls**
+- ⚡ Fun fact **idk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
