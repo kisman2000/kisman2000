@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LavaHack**
 
-- 🌱 I’m currently learning **Fabric API, TypeScript, GO, GLSL**
+- 🌱 I’m currently learning **Kotlin/Native, Fabric API, GLSL**
 
 - 💬 Ask me about **java, kotlin, minecraft modding**
 
